@@ -44,8 +44,8 @@ NAVER Cloud Platform Certified Professional (NCP) 자격증을 보유하고 있�
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-  <!--
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+  <!--
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
   -->
   <br>
@@ -79,12 +79,19 @@ NAVER Cloud Platform Certified Professional (NCP) 자격증을 보유하고 있�
 <br><br><br>
 
 
-<!--
+
 ### 📌 Portfolio
 ***
+### PUSH
+시연영상 : [notion]
 
+[notion]: https://www.canva.com/design/DAGNrSpOKwk/33b9QLilAk8_0xZaXCVHhA/view?utm_content=DAGNrSpOKwk&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
+포트폴리오 : [push.pdf]
 
+[push.pdf]: https://www.canva.com/design/DAGNrSpOKwk/33b9QLilAk8_0xZaXCVHhA/view?utm_content=DAGNrSpOKwk&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 -->
 
