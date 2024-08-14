@@ -16,13 +16,13 @@
 
 ### 💡 Introduction
 ***
-### 안녕하세요, 성장을 즐기는 신입 개발자 김수현입니다.
-저는 공부에는 끝이 없다고 생각합니다.   
-지속적인 학습과 성장을 추구하며, 새로운 기술과 도구를 배우는 데 두려움이 없습니다.  
+### 안녕하세요, 문제를 고민하며 지속적으로 성장하는 신입 개발자 김수현입니다.
+&nbsp;저는 공부에는 끝이 없다고 생각합니다.   
+지속적인 학습과 성장을 추구하며, 새로운 기술과 도구를 배우는 데 두려움이 없습니다.
 
-SpringBoot, Spring Data JPA를 사용한 REST API 개발 경험이 있습니다.   
+Spring Boot와 Spring Data JPA, Spring Security를 활용해 REST API를 개발해본 경험이 있습니다.   
 
-NAVER Cloud Platform Certified Professional (NCP) 자격증을 보유하고 있습니다.   
+WebSocket과 Thymeleaf를 사용한 프로젝트에도 참여했으며, DB 모델링을 맡아 담당한 적이 있습니다.
 
 개발뿐만 아니라 팀워크와 소통을 중시하는 사람 냄새 나는 개발자가 되고자 합니다 :)
 <br><br><br><br>
@@ -53,6 +53,7 @@ NAVER Cloud Platform Certified Professional (NCP) 자격증을 보유하고 있�
   <h5>DB</h5>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
   <br>
 
