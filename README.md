@@ -84,9 +84,9 @@ WebSocket과 Thymeleaf를 사용한 프로젝트에도 참여했으며, DB 모�
 ### 📌 Portfolio
 ***
 ### PUSH
-시연영상 : [notion]
+시연영상 : [Notion]
 
-[notion]: https://www.canva.com/design/DAGNrSpOKwk/33b9QLilAk8_0xZaXCVHhA/view?utm_content=DAGNrSpOKwk&utm_campaign=designshare&utm_medium=link&utm_source=editor
+[Notion]: https://wood-condor-881.notion.site/PUSH-c51a2b0ebcc04b4a8ea299390b7fab7e
 
 <!--
 포트폴리오 : [push.pdf]
