@@ -88,9 +88,11 @@ WebSocket과 Thymeleaf를 사용한 프로젝트에도 참여했으며, DB 모�
 
 [notion]: https://www.canva.com/design/DAGNrSpOKwk/33b9QLilAk8_0xZaXCVHhA/view?utm_content=DAGNrSpOKwk&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
+<!--
 포트폴리오 : [push.pdf]
 
 [push.pdf]: https://www.canva.com/design/DAGNrSpOKwk/33b9QLilAk8_0xZaXCVHhA/view?utm_content=DAGNrSpOKwk&utm_campaign=designshare&utm_medium=link&utm_source=editor
+-->
 
 <!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
